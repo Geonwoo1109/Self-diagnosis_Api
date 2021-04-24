@@ -9,3 +9,4 @@ rsa 암호화 방식 사용
 
 
 확인 링크: https://cafe.naver.com/nameyee/29803
+학교코드구하기: https://hcs.eduro.go.kr/v2/searchSchool?orgName=
