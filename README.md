@@ -10,3 +10,6 @@ rsa 암호화 방식 사용
 
 확인 링크: https://cafe.naver.com/nameyee/29803
 학교코드구하기: https://hcs.eduro.go.kr/v2/searchSchool?orgName=
+
+1. 추가할 기능: 카톡에서 바로 자가진단하는거 만들기
+2. 뜯어보고 조금 더 편하게 
