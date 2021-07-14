@@ -1,3 +1,5 @@
+//관리자의 개인적인 ㅅ유로 더이상 동작하지 않음
+
 const FS = FileStream;
 const path = '/sdcard/selfcheckbot/people.txt';
 
