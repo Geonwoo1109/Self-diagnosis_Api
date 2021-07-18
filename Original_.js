@@ -1,3 +1,5 @@
+//관리자가 서버 내려서 이제 작동 안해유
+
 const FS = FileStream;
 const path = '/sdcard/selfcheckbot/people.txt';
 
